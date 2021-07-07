@@ -1,0 +1,8 @@
+*
+
+!/app/
+!/bin/
+!/build/
+
+!.gitignore
+!CMakeLists.txt
